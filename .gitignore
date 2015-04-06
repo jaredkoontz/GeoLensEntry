@@ -1,0 +1,7 @@
+*.project
+*.classpath
+*.build
+*.settings
+.idea/*
+*.iml
+out/
