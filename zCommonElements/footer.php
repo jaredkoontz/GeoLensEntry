@@ -1,13 +1,13 @@
 <div class="modal-footer">
     <div class="container-fluid">
         <div class="navbar-fixed-bottom">
-            <a href="../../" class="navbar-brand">GeoLens Entry Home</a>
+            <a href="<?php echo $relativePath . 'index.php'; ?>" class="navbar-brand">GeoLens</a>
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="">Live Version</a>
+                    <a href="<?php echo $relativePath . 'live/live.php'; ?>">Live Version</a>
                 </li>
                 <li>
-                    <a href="">Examples</a>
+                    <a href="<?php echo $relativePath . 'examples/examples.php'; ?>">Examples</a>
                 </li>
                 <li>
                     <a href="">More Information</a>

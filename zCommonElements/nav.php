@@ -1,27 +1,22 @@
 <div class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a href="../../" class="navbar-brand">GeoLens</a>
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+            <a href="<?php echo $relativePath . 'index.php'; ?>" class="navbar-brand">GeoLens</a>
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="">1</a>
+                    <a href="<?php echo $relativePath . 'live/live.php'; ?>">Live Version</a>
                 </li>
                 <li>
-                    <a href="">2</a>
+                    <a href="<?php echo $relativePath . 'examples/examples.php'; ?>">Examples</a>
                 </li>
                 <li>
-                    <a href="">3</a>
+                    <a href="">More Information</a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="../index.php">Home</a></li>
+                <li><a href="<?php echo $relativePath . 'index.php'; ?>">Home</a></li>
             </ul>
         </div>
     </div>

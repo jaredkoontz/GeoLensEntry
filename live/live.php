@@ -1,7 +1,22 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: root
- * Date: 4/7/15
- * Time: 11:43 AM
- */
+
+//set variables and include relative path page for easy inclusion.
+$pageDepth = 1;
+$pageTitle = "Live Version";
+include('../zCommonElements/relPath.php');
+
+//include header
+include($relativePath . 'zCommonElements/head.php');
+
+//include navigation
+include($relativePath . 'zCommonElements/nav.php');
+?>
+
+
+<?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
+<?php include($relativePath . 'zCommonElements/galileoButton.php'); ?>
+
+
+
+
+<?php include($relativePath . 'zCommonElements/footer.php'); ?>

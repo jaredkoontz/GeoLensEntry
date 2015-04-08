@@ -11,11 +11,15 @@ include($relativePath . 'zCommonElements/head.php');
 //include navigation
 include($relativePath . 'zCommonElements/nav.php');
 
+
+
 ?>
 
-    <div class="jumbotron">
-        <p>Words</p>
-    </div>
+<?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
+
+<?php include($relativePath . 'zCommonElements/banner.php'); ?>
+
+
     <p>words words words words words words words words words words words words words words words words words words words
         words words words words words
         words words words words words words words words words words words words words words words words words words
@@ -26,6 +30,8 @@ include($relativePath . 'zCommonElements/nav.php');
         words words
         words words words words words words words words words words words words </p>
 
+
+<?php include($relativePath . 'zCommonElements/galileoButton.php'); ?>
 
 
 <?php include($relativePath . 'zCommonElements/footer.php'); ?>
