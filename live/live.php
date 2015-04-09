@@ -16,7 +16,9 @@ include($relativePath . 'zCommonElements/nav.php');
 <?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
 <?php include($relativePath . 'zCommonElements/galileoButton.php'); ?>
 
-
+    <br/>
+    <br/>
+    <br/>
 
 
 <?php include($relativePath . 'zCommonElements/footer.php'); ?>

@@ -15,14 +15,14 @@ include($relativePath . 'zCommonElements/nav.php');
 
 <?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
 
-<p>If Galileo is not currently up with data, you can still view various precomputed query results within GeoLens</p>
+    <p>If Galileo is not currently up with data, you can still view various precomputed query results within GeoLens</p>
 
 
-<p>Simply click on the link describing the data set you would like to view</p>
+    <p>Simply click on the link describing the data set you would like to view</p>
 
-<p><a href="">DataSet 1</a></p>
-<p><a href="">DataSet 2</a></p>
-<p><a href="">DataSet 3</a></p>
+    <p><a href="">DataSet 1</a></p>
+    <p><a href="">DataSet 2</a></p>
+    <p><a href="">DataSet 3</a></p>
 
 
 <?php include($relativePath . 'zCommonElements/footer.php'); ?>

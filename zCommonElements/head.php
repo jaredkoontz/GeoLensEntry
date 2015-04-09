@@ -9,7 +9,15 @@
     <title>GeoLens Landing Page</title>
     <meta http-equiv="content-type"
           content="text/html;charset=utf-8"/>
-    <link rel="stylesheet" href="<?php echo $relativePath . 'css/bootstrap.min.css' ?>">
+    <link rel="stylesheet" href="<?php echo $relativePath . 'lib/css/jquery-ui.css' ?>">
+    <link rel="stylesheet" href="<?php echo $relativePath . 'lib/css/query-ui-timepicker-addon.css' ?>">
+    <link rel="stylesheet" href="<?php echo $relativePath . 'lib/css/bootstrap.min.css' ?>">
     <style type="text/css"></style>
+    <!--lib-->
+    <script src="<?php echo $relativePath . 'lib/js/jquery-1.11.2.min.js' ?>"></script>
+    <script src="<?php echo $relativePath . 'lib/js/jquery-ui.min.js' ?>"></script>
+    <script src="<?php echo $relativePath . 'lib/js/jquery-ui-timepicker-addon.js' ?>"></script>
+    <script src="<?php echo $relativePath . 'lib/js/jquery-ui-sliderAccess.js' ?>"></script>
+
 </head>
 <body>

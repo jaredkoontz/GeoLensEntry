@@ -7267,14 +7267,12 @@ button.close {
     color: #fff
 }
 
-
-
 /*Begin my home brewed styles*/
 
-h1.banner-header{
-    float:left;
+h1.banner-header {
+    float: left;
 }
 
-img.banner-img{
-    float:right;
+img.banner-img {
+    float: right;
 }
