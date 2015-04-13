@@ -57,19 +57,21 @@ include($relativePath . 'zCommonElements/nav.php');
     <div class="col-lg-6" style="min-width:90%;">
         <div class="well bs-component">
             <form id="featureSelection" action="queryResults/queryValidator.php" method='post'
-                  target='formresponse' class="form-horizontal" >
+                  target='formresponse' class="form-horizontal">
                 <fieldset>
                     <legend>Feature Selection</legend>
                     <div class="form-group">
-                            <label for='beginDate' class="col-lg-2 control-label">Beginning Date</label>
-                            <div class="col-lg-10">
-                                    <input type="text" name="beginDate" id="beginDate" value="" class="form-control"/>
-                            </div>
-                            <span id='featureSelection_beginDate_errorloc' class='error'></span>
+                        <label for='beginDate' class="col-lg-2 control-label">Beginning Date</label>
+
+                        <div class="col-lg-10">
+                            <input type="text" name="beginDate" id="beginDate" value="" class="form-control"/>
+                        </div>
+                        <span id='featureSelection_beginDate_errorloc' class='error'></span>
                     </div>
 
                     <div class="form-group">
                         <label for='endDate' class="col-lg-2 control-label">Ending Date</label>
+
                         <div class="col-lg-10">
                             <input type="text" name="endDate" id="endDate" value="" class="form-control"/>
                         </div>
@@ -78,6 +80,7 @@ include($relativePath . 'zCommonElements/nav.php');
 
                     <div class="form-group">
                         <label for="select" class="col-lg-2 control-label">Relevant Features</label>
+
                         <div class="col-lg-10">
                             <select name="features" multiple class="form-control">
                                 <option value="temp">temp1</option>

@@ -29,9 +29,72 @@ include($relativePath . 'zCommonElements/nav.php');
         words words words words words words words words words words words words words words words words words words
         words words
         words words words words words words words words words words words words </p>
+    <p>words words words words words words words words words words words words words words words words words words words
+        words words words words words
+        words words words words words words words words words words words words words words words words words words
+        words words words words words words
+        words words words words words words words words words words words words words words words words words words
+        words words
+        words words words words words words words words words words words words words words words words words words
+        words words
+        words words words words words words words words words words words words </p><p>words words words words words
+    words words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p><p>words words words words words words
+    words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p><p>words words words words words words
+    words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p><p>words words words words words words
+    words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p><p>words words words words words words
+    words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p><p>words words words words words words
+    words words words words words words words words words words words words words
+    words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words words words words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words words words words words words words
+    words words
+    words words words words words words words words words words words words </p>
 
 
-<?php include($relativePath . 'zCommonElements/galileoButton.php'); ?>
+<?php include($relativePath . 'zCommonElements/geoLensButton.php'); ?>
 
 
 <?php include($relativePath . 'zCommonElements/footer.php'); ?>

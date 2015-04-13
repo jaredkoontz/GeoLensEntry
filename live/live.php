@@ -14,7 +14,7 @@ include($relativePath . 'zCommonElements/nav.php');
 
 
 <?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
-<?php include($relativePath . 'zCommonElements/galileoButton.php'); ?>
+<?php include($relativePath . 'zCommonElements/geoLensButton.php'); ?>
 
     <br/>
     <br/>

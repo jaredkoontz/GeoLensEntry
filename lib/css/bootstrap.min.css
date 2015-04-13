@@ -14,7 +14,8 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    padding-top : 70 px;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -1834,7 +1835,8 @@ pre code {
     margin-right: auto;
     margin-left: auto;
     padding-left: 15px;
-    padding-right: 15px
+    padding-right: 15px;
+    padding-bottom: 75px; /* Height of the footer element */
 }
 
 @media (min-width: 768px) {
@@ -7269,10 +7271,7 @@ button.close {
 
 /*Begin my home brewed styles*/
 
-h1.banner-header {
-    float: left;
-}
-
-img.banner-img {
-    float: right;
+#wrapper {
+    min-height: 100%;
+    position: relative;
 }
