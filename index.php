@@ -36,7 +36,9 @@ include($relativePath . 'zCommonElements/nav.php');
     <br/>
     <br/>
     <br/>
-<?php include($relativePath . 'zCommonElements/geoLensButton.php'); ?>
+
+    <a href="live/live.php" class="btn btn-default">Try For Live Version of GeoLens</a>
+    <a href="examples/examples.php" class="btn btn-primary">View Examples</a>
 
 
 <?php include($relativePath . 'zCommonElements/footer.php'); ?>

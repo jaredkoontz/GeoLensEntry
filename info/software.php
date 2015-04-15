@@ -6,11 +6,11 @@
     <li><a href="">Distribution Zip</a></li>
 </ul>
 
-<br />
+<br/>
 
-<p> <a href ="https://github.com/jaredkoontz/ClientGeoLens">Github directory</a></p>
+<p><a href="https://github.com/jaredkoontz/ClientGeoLens">Github directory</a></p>
 
-<br />
+<br/>
 
 
-<p >Application Programmer's Interface</p>
+<p>Application Programmer's Interface</p>
