@@ -15,85 +15,27 @@ include($relativePath . 'zCommonElements/nav.php');
 
 ?>
 
-<?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
+    <p title=""><img src="images/Geolens-logo.png" width="233" height="110" alt="geolens" title=""></p>
 
-<?php include($relativePath . 'zCommonElements/banner.php'); ?>
-
-
-    <p>words words words words words words words words words words words words words words words words words words words
-        words words words words words
-        words words words words words words words words words words words words words words words words words words
-        words words words words words words
-        words words words words words words words words words words words words words words words words words words
-        words words
-        words words words words words words words words words words words words words words words words words words
-        words words
-        words words words words words words words words words words words words </p>
-    <p>words words words words words words words words words words words words words words words words words words words
-        words words words words words
-        words words words words words words words words words words words words words words words words words words
-        words words words words words words
-        words words words words words words words words words words words words words words words words words words
-        words words
-        words words words words words words words words words words words words words words words words words words
-        words words
-        words words words words words words words words words words words words </p><p>words words words words words
-    words words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p><p>words words words words words words
-    words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p><p>words words words words words words
-    words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p><p>words words words words words words
-    words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p><p>words words words words words words
-    words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p><p>words words words words words words
-    words words words words words words words words words words words words words
-    words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words words words words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words words words words words words words
-    words words
-    words words words words words words words words words words words words </p>
+    <p>GeoLens is an interactive visual analytics framework. GeoLens provides fast and expressive interactions with
+        voluminous geo-spatial datasets. We provide an expressive visual query evaluation scheme to support advanced
+        interactive visual analytics technique, such as brushing and linking. To achieve this, we designed and developed
+        the Geohash based image tile generation algorithm that automatically adjusts the range of data to access based
+        on the minimum acceptable size of the image tile.</p>
 
 
+    <p>Key Innovation and Capabilities</p>
+    <ul>
+        <li>Brushing and Linking</li>
+        <li>Autonomous histogram generation algorithm</li>
+        <li>Self-adjustable data aggregation</li>
+        <li>visual query coordinating scheme</li>
+    </ul>
+
+    <br/>
+    <br/>
+    <br/>
+    <br/>
 <?php include($relativePath . 'zCommonElements/geoLensButton.php'); ?>
 
 

@@ -6,7 +6,7 @@
     <link rel="icon"
           type="image/png"
           href="<?php echo $relativePath . 'images/favicon.ico' ?>">
-    <title>GeoLens Landing Page</title>
+    <title><?php echo $pageTitle ?></title>
     <meta http-equiv="content-type"
           content="text/html;charset=utf-8"/>
     <link rel="stylesheet" href="<?php echo $relativePath . 'lib/css/jquery-ui.css' ?>">
