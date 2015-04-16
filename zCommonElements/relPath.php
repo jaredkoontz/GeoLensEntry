@@ -21,4 +21,3 @@ switch ($pageDepth) {
     default:
         $relativePath = "./";
 }
-?>

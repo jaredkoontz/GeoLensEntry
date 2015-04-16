@@ -8,7 +8,5 @@
             the Geohash based image tile generation algorithm that automatically adjusts the range of data to access
             based
             on the minimum acceptable size of the image tile.</p>
-
-
     </div>
 </div>

@@ -16,44 +16,6 @@ include($relativePath . 'zCommonElements/nav.php');
 
 <?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
 
-    <!--<form id="featureSelection" action="queryResults/queryValidator.php" method='post' target='formresponse'
-          class="form-horizontal">
-        <fieldset>
-
-            <div class="container">
-                <label for='beginDate'>Query Beginning Date*:</label><br/>
-
-                <div>
-                    <input type="text" name="beginDate" id="beginDate" value=""/>
-                </div>
-                <span id='featureSelection_beginDate_errorloc' class='error'></span>
-            </div>
-            <br/><br/><br/>
-
-            <div class="container">
-                <label for='email'>Query Ending Date*:</label><br/>
-
-                <div>
-                    <input type="text" name="endDate" id="endDate" value=""/>
-                </div>
-                <span id='featureSelection_endDate_errorloc' class='error'></span>
-            </div>
-            <br/><br/><br/>
-
-            <div class='container'>
-                <label for='message'></label><br/>
-
-            </div>
-            <br/><br/><br/>
-
-            <div class='container'>
-                <input type='submit' name='Submit' value='Submit'/>
-            </div>
-            <br/><br/><br/>
-
-    </form>-->
-
-
     <div class="col-lg-6" style="min-width:90%;">
         <div class="well bs-component">
             <form id="featureSelection" action="queryResults/queryValidator.php" method='post'
