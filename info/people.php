@@ -1,3 +1,20 @@
+<?php
+
+//set variables and include relative path page for easy inclusion.
+$pageDepth = 1;
+$pageTitle = "People";
+include('../zCommonElements/relPath.php');
+
+//include header
+include($relativePath . 'zCommonElements/head.php');
+
+//include navigation
+include($relativePath . 'zCommonElements/nav.php');
+
+?>
+
+<?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
+
 <p>GeoLens is led by <a href="http://www.cs.colostate.edu/~sangmi">Prof. Sangmi Lee Pallickara</a>.
     For more information, please <a href="http://www.cs.colostate.edu/~sangmi">contact her</a>.</p>
 
@@ -24,3 +41,5 @@
     </tr>
     </tbody>
 </table>
+
+<?php include($relativePath . 'zCommonElements/footer.php'); ?>

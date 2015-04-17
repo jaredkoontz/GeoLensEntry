@@ -17,6 +17,7 @@ include($relativePath . 'zCommonElements/nav.php');
 <?php include($relativePath . 'zCommonElements/pageTitle.php'); ?>
 
 
+
     <a href="#" class="btn btn-default" id="checkButton">Click to check galileo status</a>
     <script type="text/javascript">
 

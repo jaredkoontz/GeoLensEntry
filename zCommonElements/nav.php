@@ -16,7 +16,10 @@
                         <a href="<?php echo $relativePath . 'publications/publications.php'; ?>">Publications</a>
                     </li>
                     <li>
-                        <a href="<?php echo $relativePath . 'info/information.php'; ?>">More Information</a>
+                        <a href="<?php echo $relativePath . 'info/people.php'; ?>">People</a>
+                    </li>
+                    <li>
+                        <a href="<?php echo $relativePath . 'info/software.php'; ?>">Software</a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
