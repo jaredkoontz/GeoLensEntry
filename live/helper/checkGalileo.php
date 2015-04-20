@@ -21,7 +21,8 @@ function select()
 function checkGalileo()
 {
     //todo send message to galileo. create and save user id in cookie here.
-    $return = $obj = (object)array('status' => 'off', 'url' => 'value');
+
+    $return = $obj = (object)array('status' => 'on', 'url' => 'value', 'id' => '1');
     echo json_encode($return);
 }
 
