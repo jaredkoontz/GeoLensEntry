@@ -25,7 +25,7 @@ include($relativePath . 'zCommonElements/nav.php');
 
 <br/>
 
-<p><a href="https://github.com/jaredkoontz/ClientGeoLens">Github directory</a></p>
+<p><a href="https://github.com/jaredkoontz/GeoLens">Github directory</a></p>
 
 <br/>
 
